@@ -5,12 +5,12 @@
       <![CDATA[Test reportBengaluru]]>
     </line>
   </reporter-output>
-  <suite started-at="2025-09-20T12:19:19 IST" name="Suite" finished-at="2025-09-20T12:19:19 IST" duration-ms="183">
+  <suite started-at="2025-11-21T23:42:08 IST" name="Default suite" finished-at="2025-11-21T23:42:08 IST" duration-ms="88">
     <groups>
     </groups>
-    <test started-at="2025-09-20T12:19:19 IST" name="Test" finished-at="2025-09-20T12:19:19 IST" duration-ms="183">
+    <test started-at="2025-11-21T23:42:08 IST" name="Default test" finished-at="2025-11-21T23:42:08 IST" duration-ms="88">
       <class name="day20.Demo1">
-        <test-method signature="testA(java.lang.String)[pri:0, instance:day20.Demo1@411f53a0]" started-at="2025-09-20T12:19:19 IST" name="testA" finished-at="2025-09-20T12:19:19 IST" duration-ms="39" status="PASS">
+        <test-method signature="testA(java.lang.String)[pri:0, instance:day20.Demo1@8f4ea7c]" started-at="2025-11-21T23:42:08 IST" name="testA" finished-at="2025-11-21T23:42:08 IST" duration-ms="15" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -25,6 +25,6 @@
           </reporter-output>
         </test-method> <!-- testA -->
       </class> <!-- day20.Demo1 -->
-    </test> <!-- Test -->
-  </suite> <!-- Suite -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>
